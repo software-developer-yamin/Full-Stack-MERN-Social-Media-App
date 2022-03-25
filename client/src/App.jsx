@@ -1,8 +1,10 @@
+import {Container} from "@mui/material"
+
 function App() {
   return (
-    <div className="app">
+    <Container>
       <h1>Yamin</h1>
-    </div>
+    </Container>
   );
 }
 
