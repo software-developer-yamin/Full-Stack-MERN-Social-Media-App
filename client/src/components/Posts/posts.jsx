@@ -1,7 +1,9 @@
-import styles from "./styles"
+import React from 'react'
 
 function Posts() {
-  return <div>posts</div>;
+  return (
+    <div>Posts</div>
+  )
 }
 
-export default Posts;
+export default Posts

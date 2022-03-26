@@ -1,7 +1,9 @@
-import styles from "./styles"
+import React from 'react'
 
 function Form() {
-  return <div>form</div>;
+  return (
+    <div>Form</div>
+  )
 }
 
 export default Form;
